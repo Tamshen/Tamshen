@@ -12,6 +12,11 @@
 [![](https://img.shields.io/badge/Lenovo-Z5%20Pro%20GT-f5010c?style=flat-square&logo=lenovo&logoColor=white)](https://activity.lenovo.com.cn/activity/moto/introduce/lenovoz5pro/html/gt/index.html)
 
 
+#### Find Me
+
+![](https://genshin-card.getloli.com/rand/204527426.png)
+
+
 <!--
 **Tamshen/Tamshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="left"><img width='300px' src='https://tva1.sinaimg.cn/mw690/006bfoyggy1gc4dug6esyj30go09eaao.jpg'/></p>
