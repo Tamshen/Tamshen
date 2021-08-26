@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/iPhone-8-f5010c?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
-[![](https://img.shields.io/badge/Lenovo-Z5%20Pro%20GT-f5010c?style=flat-square&logo=lenovo&logoColor=white)](https://activity.lenovo.com.cn/activity/moto/introduce/lenovoz5pro/html/gt/index.html)
+[![](https://img.shields.io/badge/Android-Lenovo%20Z5%20Pro%20GT-f5010c?style=flat-square&logo=Android&logoColor=white)](https://activity.lenovo.com.cn/activity/moto/introduce/lenovoz5pro/html/gt/index.html)
 
 
 #### Find Me
