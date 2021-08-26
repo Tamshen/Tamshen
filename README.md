@@ -19,8 +19,6 @@
 [![](https://img.shields.io/badge/Figma-272727?style=flat-square&logo=Figma&logoColor=ffffff)](https://figma.com/)
 ...
 
-—————————>———
-
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/-Git&Gui%20Sourcetree-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
