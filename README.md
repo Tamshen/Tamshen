@@ -6,11 +6,15 @@
 #### Platform & Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/macOS-Black_BigSur-2376bc?style=flat-square&logo=apple&logoColor=000000)](https://support.apple.com/macos)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/iPhone-8-f5010c?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Android-Lenovo%20Z5%20Pro%20GT-f5010c?style=flat-square&logo=Android&logoColor=white)](https://activity.lenovo.com.cn/activity/moto/introduce/lenovoz5pro/html/gt/index.html)
 [![](https://img.shields.io/badge/Android-X86%20MiPad2%20-f5010c?style=flat-square&logo=Android&logoColor=white)](https://www.mi.com/mipad2)
+
+———>—————————
+
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/-Git&Gui%20Sourcetree-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
@@ -21,9 +25,10 @@
 [![](https://img.shields.io/badge/-Php(5.6+)-8892BF?style=flat-square&logo=Python&logoColor=white)](https://php.net/)
 [![](https://img.shields.io/badge/-Python(low)-3776ab?style=flat-square&logo=Python&logoColor=white)](https://python.com/)
 [![](https://img.shields.io/badge/-Node.js(low)-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-C%20Sharp(low)-4c7f16?style=flat-square&logo=C-Sharp&logoColor=ffffff)](https://nodejs.org/)
 
 
-[![](https://img.shields.io/badge/-Git&Gui%20Sourcetree-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+
 
 
 
