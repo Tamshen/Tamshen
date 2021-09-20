@@ -2,6 +2,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=tamshen&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamshen&hide_title=true)
+
 
 #### Platform & Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
