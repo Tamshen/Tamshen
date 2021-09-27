@@ -9,9 +9,10 @@
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/macOS-Black_BigSur-2376bc?style=flat-square&logo=apple&logoColor=000000)](https://github.com/Tamshen/Lenovo-ThinkStation-P520-Hackintosh)
 
-[![](https://img.shields.io/badge/iPhone-XR+8-f5010c?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
-[![](https://img.shields.io/badge/Android-Lenovo%20Z5%20Pro%20GT-f5010c?style=flat-square&logo=Android&logoColor=white)](https://activity.lenovo.com.cn/activity/moto/introduce/lenovoz5pro/html/gt/index.html)
+[![](https://img.shields.io/badge/iPhone-8&XR-f5010c?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Android%20x%2086-%20MiPad2%20-f5010c?style=flat-square&logo=Android&logoColor=white)](https://www.mi.com/mipad2)
+
+<!--[![](https://img.shields.io/badge/Android-Lenovo%20Z5%20Pro%20GT-f5010c?style=flat-square&logo=Android&logoColor=white)](https://activity.lenovo.com.cn/activity/moto/introduce/lenovoz5pro/html/gt/index.html)-->
 
 ———>—————————
 
