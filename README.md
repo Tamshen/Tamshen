@@ -2,14 +2,15 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=tamshen&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamshen&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamshen&hide_title=true&layout=compact)
+
 
 
 #### Platform & Tools
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/Windows-10%20and%2011-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/macOS-Black_BigSur-2376bc?style=flat-square&logo=apple&logoColor=000000)](https://github.com/Tamshen/Lenovo-ThinkStation-P520-Hackintosh)
 
-[![](https://img.shields.io/badge/iPhone-8&XR-f5010c?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/iPhone-555555?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Android%20x%2086-%20MiPad2%20-f5010c?style=flat-square&logo=Android&logoColor=white)](https://www.mi.com/mipad2)
 
 <!--[![](https://img.shields.io/badge/Android-Lenovo%20Z5%20Pro%20GT-f5010c?style=flat-square&logo=Android&logoColor=white)](https://activity.lenovo.com.cn/activity/moto/introduce/lenovoz5pro/html/gt/index.html)-->
@@ -23,7 +24,8 @@
 ...
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/-Git&Gui%20Sourcetree-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![](https://img.shields.io/badge/-Gui%20Sourcetree-0052cc?style=flat-square&logo=Atlassian&logoColor=white)](https://git-scm.com/)
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
