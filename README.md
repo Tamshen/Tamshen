@@ -7,8 +7,9 @@
 
 
 #### Platform & Tools
-[![](https://img.shields.io/badge/Windows-10%20and%2011-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/macOS-Black_BigSur-2376bc?style=flat-square&logo=apple&logoColor=000000)](https://github.com/Tamshen/Lenovo-ThinkStation-P520-Hackintosh)
+[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/macOS-Black_BigSur-3e4e2a?style=flat-square&logo=apple&logoColor=000000)](https://github.com/Tamshen/Lenovo-ThinkStation-P520-Hackintosh)
+[![](https://img.shields.io/badge/macOS-Monterey-da11b5?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/macbook-pro/)
 
 [![](https://img.shields.io/badge/iPhone-555555?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Android%20x%2086-%20MiPad2%20-f5010c?style=flat-square&logo=Android&logoColor=white)](https://www.mi.com/mipad2)
