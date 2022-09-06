@@ -1,7 +1,6 @@
 **Hi there 👋**
 
 [![](https://github-readme-stats.vercel.app/api?username=tamshen&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true)](#)
-
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamshen&hide_title=true&layout=compact)](#)
 
 
@@ -11,8 +10,9 @@
 [![](https://img.shields.io/badge/macOS-Black_BigSur-3e4e2a?style=flat-square&logo=apple&logoColor=000000)](https://github.com/Tamshen/Lenovo-ThinkStation-P520-Hackintosh)
 [![](https://img.shields.io/badge/macOS-Monterey-da11b5?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/macbook-pro/)
 
-[![](https://img.shields.io/badge/iPhone-555555?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
-[![](https://img.shields.io/badge/Android%20x%2086-%20MiPad2%20-f5010c?style=flat-square&logo=Android&logoColor=white)](https://www.mi.com/mipad2)
+[![](https://img.shields.io/badge/iPhone-%20A%20-313132?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/Android-%20MTK%20-f0c450?style=flat-square&logo=Android&logoColor=white)](#)
+[![](https://img.shields.io/badge/Android%20x%2086-%20Intel%20-2a66b1?style=flat-square&logo=Android&logoColor=white)](#)
 
 <!--[![](https://img.shields.io/badge/Android-Lenovo%20Z5%20Pro%20GT-f5010c?style=flat-square&logo=Android&logoColor=white)](https://activity.lenovo.com.cn/activity/moto/introduce/lenovoz5pro/html/gt/index.html)-->
 
@@ -52,10 +52,11 @@
 
 
 
-[![](https://genshin-card.getloli.com/rand/204527426.png)](#)
+
 
 
 <!--
+[![](https://genshin-card.getloli.com/rand/204527426.png)](#)
 **Tamshen/Tamshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="left"><img width='300px' src='https://tva1.sinaimg.cn/mw690/006bfoyggy1gc4dug6esyj30go09eaao.jpg'/></p>
 
