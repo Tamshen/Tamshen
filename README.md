@@ -4,7 +4,8 @@
 
 #### Platform & Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/macOS-MBP-da11b5?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/macbook-pro/)
+[![](https://img.shields.io/badge/macOS-MBPx86-da11b5?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/macbook-pro/)
+[![](https://img.shields.io/badge/macOS-MinixARM-da11b5?style=flat-square&logo=apple&logoColor=ffffff)]([https://www.apple.com.cn/macbook-pro/](https://www.apple.com.cn/mac-mini/))
 
 [![](https://img.shields.io/badge/iPhone-%20A%20-313132?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Android-%20MTK%20-f0c450?style=flat-square&logo=Android&logoColor=white)](#)
@@ -23,7 +24,6 @@
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![](https://img.shields.io/badge/-Gui%20Sourcetree-0052cc?style=flat-square&logo=Atlassian&logoColor=white)](https://www.sourcetreeapp.com/)
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
@@ -48,6 +48,10 @@
 
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamshen&hide_title=true&layout=compact)](#)
+
+[![](https://count.getloli.com/get/@tamshen?theme=capoo-2)](#)
+
+
 
 
 
