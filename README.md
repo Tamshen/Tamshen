@@ -13,9 +13,9 @@
 #### Development Tools
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![Vibe](https://img.shields.io/badge/-Vibe-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com)
 
 #### Frontend Languages
-[![Vibe](https://img.shields.io/badge/-Vibe-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com)
 [![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)](https://nuxt.com/) 
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
