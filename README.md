@@ -29,10 +29,9 @@
 [![](https://img.shields.io/badge/-VUE3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 
 #### Backend Languages
-[![](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white)](https://php.net/)
 [![](https://img.shields.io/badge/-Golang-00add8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
+[![](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white)](https://php.net/)
 [![](https://img.shields.io/badge/-Python3-3776ab?style=flat-square&logo=python&logoColor=white)](https://python.org/)
-[![](https://img.shields.io/badge/-C%20Sharp(low)-4c7f16?style=flat-square&logo=c-sharp&logoColor=ffffff)](http://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)
 
 #### Databases
 [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
